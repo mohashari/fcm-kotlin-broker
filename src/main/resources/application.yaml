@@ -1,0 +1,13 @@
+server:
+  port: 20011
+
+spring:
+  messages:
+    basename: messages/messages
+
+#Production
+firebase:
+  url: https://fcm.googleapis.com/fcm/send
+  server:
+    key: AAAAlToQmkU:APA91bEYGQmrzUK4OOUGLj-AH-BMyss4QsylNXg8r6exISN1lClgwKmaHVOXfSeK08nxStzqhoWtc4rRmnLYWD_euwMFnUSpwSbMRaEBkr3fgahdUK_wR-E6lxtuy1CBjpM9Blxip02u
+
